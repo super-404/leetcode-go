@@ -1,6 +1,6 @@
 package solution
 
-import . "leetcode_go/data_structures"
+import . "leetcode_go/datastructures"
 
 // LeetCode 86. Partition List
 // 将链表分割，使得所有小于 x 的节点都在大于或等于 x 的节点之前
